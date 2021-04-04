@@ -1,0 +1,6 @@
+Warning: TestRig moved to org.antlr.v4.gui.TestRig; calling automatically
+line 3:5 no viable alternative at input 'boolb'
+b pas trouvÃ© en local
+Recherche de b dans table globale: {f=AdresseType@7a92922, x=AdresseType@71f2a7d5} => @null
+## Erreur : la variable "b" n'existe pas
+Problems calling org.antlr.v4.gui.TestRig.main(args)

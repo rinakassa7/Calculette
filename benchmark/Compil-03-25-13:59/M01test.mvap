@@ -1,0 +1,25 @@
+  PUSHF 1.3
+  PUSHF 0.0
+  PUSHI 2
+  JUMP Main
+LABEL Main
+  READF 
+  STOREG 3
+  STOREG 2
+  PUSHG 4
+  PUSHI 1
+  SUB
+  WRITE
+  POP
+  PUSHG 0
+  PUSHG 1
+  WRITEF
+  POP
+  POP
+  PUSHG 2
+  PUSHG 3
+  WRITEF
+  POP
+  POP
+  HALT
+

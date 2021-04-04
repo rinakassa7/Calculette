@@ -1,0 +1,9 @@
+Warning: TestRig moved to org.antlr.v4.gui.TestRig; calling automatically
+k pas trouvÃ© en local
+Recherche de k dans table globale: {i=AdresseType@591f989e, j=AdresseType@66048bfd, k=AdresseType@61443d8f} => @AdresseType@61443d8f
+j pas trouvÃ© en local
+Recherche de j dans table globale: {i=AdresseType@591f989e, j=AdresseType@66048bfd, k=AdresseType@61443d8f} => @AdresseType@66048bfd
+i pas trouvÃ© en local
+Recherche de i dans table globale: {i=AdresseType@591f989e, j=AdresseType@66048bfd, k=AdresseType@61443d8f} => @AdresseType@591f989e
+k pas trouvÃ© en local
+Recherche de k dans table globale: {i=AdresseType@591f989e, j=AdresseType@66048bfd, k=AdresseType@61443d8f} => @AdresseType@61443d8f

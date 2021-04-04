@@ -1,0 +1,17 @@
+  PUSHF 0.0
+  JUMP Main
+LABEL Main
+  READF 
+  STOREG 1
+  STOREG 0
+  PUSHF 5.3
+  PUSHG 0
+  PUSHG 1
+  FMUL
+  PUSHF 2.
+  FADD
+  WRITEF
+  POP
+  POP
+  HALT
+

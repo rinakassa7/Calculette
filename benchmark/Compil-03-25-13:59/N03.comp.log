@@ -1,0 +1,11 @@
+Warning: TestRig moved to org.antlr.v4.gui.TestRig; calling automatically
+Recherche de n dans table locale: {return=AdresseType@1b40d5f0, n=AdresseType@ea4a92b}
+Recherche de n dans table locale: {return=AdresseType@1b40d5f0, n=AdresseType@ea4a92b}
+Recherche de return dans table locale: {return=AdresseType@1b40d5f0, n=AdresseType@ea4a92b}
+Recherche de n dans table locale: {return=AdresseType@1b40d5f0, n=AdresseType@ea4a92b}
+Recherche de n dans table locale: {return=AdresseType@1b40d5f0, n=AdresseType@ea4a92b}
+Recherche de return dans table locale: {return=AdresseType@1b40d5f0, n=AdresseType@ea4a92b}
+fibo pas trouvÃ© en local
+Recherche de fibo dans table globale: {n=AdresseType@61832929, fibo=AdresseType@29774679} => @AdresseType@29774679
+fibo pas trouvÃ© en local
+Recherche de fibo dans table globale: {n=AdresseType@61832929, fibo=AdresseType@29774679} => @AdresseType@29774679

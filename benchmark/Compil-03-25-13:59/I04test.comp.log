@@ -1,0 +1,13 @@
+Warning: TestRig moved to org.antlr.v4.gui.TestRig; calling automatically
+x pas trouvÃ© en local
+Recherche de x dans table globale: {t=AdresseType@483bf400, x=AdresseType@21a06946, y=AdresseType@77f03bb1, z=AdresseType@326de728} => @AdresseType@21a06946
+x pas trouvÃ© en local
+Recherche de x dans table globale: {t=AdresseType@483bf400, x=AdresseType@21a06946, y=AdresseType@77f03bb1, z=AdresseType@326de728} => @AdresseType@21a06946
+y pas trouvÃ© en local
+Recherche de y dans table globale: {t=AdresseType@483bf400, x=AdresseType@21a06946, y=AdresseType@77f03bb1, z=AdresseType@326de728} => @AdresseType@77f03bb1
+x pas trouvÃ© en local
+Recherche de x dans table globale: {t=AdresseType@483bf400, x=AdresseType@21a06946, y=AdresseType@77f03bb1, z=AdresseType@326de728} => @AdresseType@21a06946
+z pas trouvÃ© en local
+Recherche de z dans table globale: {t=AdresseType@483bf400, x=AdresseType@21a06946, y=AdresseType@77f03bb1, z=AdresseType@326de728} => @AdresseType@326de728
+t pas trouvÃ© en local
+Recherche de t dans table globale: {t=AdresseType@483bf400, x=AdresseType@21a06946, y=AdresseType@77f03bb1, z=AdresseType@326de728} => @AdresseType@483bf400

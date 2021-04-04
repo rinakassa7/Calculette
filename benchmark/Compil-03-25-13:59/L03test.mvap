@@ -1,0 +1,26 @@
+  PUSHI 0
+  JUMP Main
+LABEL  g
+  PUSHL -3
+  PUSHI 40
+  ADD
+  STOREL -4
+  RETURN 
+RETURN 
+LABEL Main
+  PUSHG 0
+  WRITE
+  POP
+  PUSHG 0
+  PUSHI 0 
+  PUSHI 2
+
+CALL g
+  POP 
+  ADD
+  STOREG 0
+  PUSHG 0
+  WRITE
+  POP
+  HALT
+

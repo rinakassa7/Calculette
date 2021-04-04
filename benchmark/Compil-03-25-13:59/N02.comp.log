@@ -1,0 +1,10 @@
+Warning: TestRig moved to org.antlr.v4.gui.TestRig; calling automatically
+Recherche de x dans table locale: {x=AdresseType@5474c6c, return=AdresseType@4b6995df}
+Recherche de return dans table locale: {x=AdresseType@5474c6c, return=AdresseType@4b6995df}
+Recherche de x dans table locale: {x=AdresseType@5474c6c, return=AdresseType@4b6995df}
+Recherche de x dans table locale: {x=AdresseType@5474c6c, return=AdresseType@4b6995df}
+Recherche de return dans table locale: {x=AdresseType@5474c6c, return=AdresseType@4b6995df}
+fact pas trouvÃ© en local
+Recherche de fact dans table globale: {fact=AdresseType@2669b199, x=AdresseType@2344fc66} => @AdresseType@2669b199
+fact pas trouvÃ© en local
+Recherche de fact dans table globale: {fact=AdresseType@2669b199, x=AdresseType@2344fc66} => @AdresseType@2669b199
